@@ -1,4 +1,4 @@
-# Nsp15-Inhibitors-Predictor
+# Nsp15 Inhibitors Predictor
 
 
 Environment
